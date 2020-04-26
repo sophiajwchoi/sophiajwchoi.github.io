@@ -222,3 +222,7 @@ section {
 .yellow {
   background-color: yellow;
 }
+
+.sidenav {
+  background-image: linear-gradient(white, #a5b9ff);
+}

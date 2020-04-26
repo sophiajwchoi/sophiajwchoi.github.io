@@ -14,5 +14,8 @@ $(document).on("scroll", function() {
     }
   });
 
-  $('body').css('display', 'none').fadeIn(500);
+$('body').css('display', 'none').fadeIn(500);
 
+$(document).ready(function () {
+    $('.sidenav').sidenav();
+  });
