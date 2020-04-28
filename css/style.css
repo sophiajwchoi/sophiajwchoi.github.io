@@ -226,3 +226,5 @@ section {
 .sidenav {
   background-image: linear-gradient(white, #a5b9ff);
 }
+
+.nav-tab { font-size: 21px; }
